@@ -1,0 +1,11 @@
+{
+    "ros.distro": "galactic",
+    "python.autoComplete.extraPaths": [
+        "/home/nmvr/dev_ws/install/turtlesim/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/nmvr/dev_ws/install/turtlesim/lib/python3.8/site-packages",
+        "/opt/ros/galactic/lib/python3.8/site-packages"
+    ]
+}
